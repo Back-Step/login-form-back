@@ -1,0 +1,4 @@
+{
+  "ignore": ["jest.config.json", "src/test/*", "babel.config.json"],
+  "exec": "babel-node src/index.js"
+}
